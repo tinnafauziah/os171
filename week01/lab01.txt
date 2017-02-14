@@ -20,3 +20,4 @@ drwxr-xr-x  2 tinna.fauziah StafCS 4096 Feb 14 10:55 week09
 drwxr-xr-x  2 tinna.fauziah StafCS 4096 Feb 14 10:56 week10
 drwxr-xr-x  2 tinna.fauziah StafCS 4096 Feb 14 10:56 xtra
 /home/fasilkom/mahasiswa/t/tinna.fauziah/os171/week01
+Today is 14 Feb 2017 at 11:56:00
