@@ -1,0 +1,3 @@
+Saya mempelajari cara membuat banyak folder di github dengan menggunakan terminal server badak. Lalu membuat file serta meremovenya.
+Dan memindahkan file ke folder lain. Setelah itu saya baru mengetahui bahwa ada text editor yang bernama nano lalu belajar untuk mengoperasikannya.
+lalu saya juga mempelajari mengadd, mengpull, mengpush melalui server terminal badak.
