@@ -1,0 +1,13 @@
+w05-170314-16-LS-About : Memainkan alokasi memory
+w05-170314-16-LS-About : Memainkan alokasi memory
+w05-170314-17-LS-About : Memainkan alokasi memory
+w05-170314-17-LS-About : Memainkan alokasi memory
+w05-170315-10-PS-About : Memainkan alokasi memory
+w05-170314-10-PS-About : Memainkan alokasi memory
+w05-170314-11-PS-About : Memainkan alokasi memory
+w05-170314-11-PS-About : Menulis analisis program memory
+w05-170314-12-PS-About : Menulis analisis program memory
+w05-170316-16-LS-About : Latihan pager, flag, frame 
+w05-170316-16-LS-About : Latihan pager, flag, frame 
+w05-170316-17-LS-About : Latihan pager, flag, frame 
+w05-170316-17-LS-About : Latihan pager, flag, frame 
