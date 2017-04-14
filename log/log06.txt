@@ -1,0 +1,17 @@
+w06-170411-16-LR-About: PID, PPID, wait(), sleep(), fflush(), Exercise About Fork
+w06-170411-17-LR-About: PID, PPID, wait(), sleep(), fflush(), Exercise About Fork
+w06-170411-17-LR-About: PID, PPID, wait(), sleep(), fflush(), Exercise About Fork
+w06-170411-20-PS-About: Fork Process
+w06-170411-21-PS-About: Fork Process
+w06-170411-21-PS-About: Fork Process
+w06-170411-22-PS-About: Fork Process
+w06-170411-22-PS-About: Fork Process
+w06-170411-23-PS-About: Fork Process
+w06-170411-23-PS-About: Fork Process
+w06-170412-21-LS-About: Fork Process
+w06-170412-22-LS-About: Fork Process
+w06-170412-22-LS-About: Fork Process
+w06-170414-16-LR-About: Solution of critical section, race condition, monitor
+w06-170414-16-LR-About: Solution of critical section, race condition, monitor
+w06-170414-17-LR-About: Solution of critical section, race condition, monitor
+w06-170414-17-LR-About: Solution of critical section, race condition, monitor
