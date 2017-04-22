@@ -1,0 +1,20 @@
+w07-170418-16-LR-About: semaphore & mutex 
+w07-170418-16-LR-About: semaphore & mutex 
+w07-170418-17-LR-About: semaphore & mutex
+w07-170418-17-LR-About: semaphore & mutex
+w07-170420-16-LR-About: Scheduling
+w07-170420-16-LR-About: Scheduling
+w07-170420-17-LR-About: Scheduling
+w07-170420-17-LR-About: Scheduling
+w07-170420-23-PS-About: semaphore & mutex
+w07-170420-23-PS-About: semaphore & mutex
+w07-170421-23-PS-About: semaphore & mutex
+w07-170421-23-PS-About: semaphore & mutex
+w07-170422-00-PS-About: semaphore & mutex
+w07-170422-00-PS-About: semaphore & mutex
+w07-170422-01-PS-About: semaphore & mutex
+w07-170422-01-PS-About: semaphore & mutex
+w07-170422-12-PS-About: semaphore & mutex
+w07-170422-12-PS-About: semaphore & mutex
+w07-170422-13-PS-About: semaphore & mutex
+w07-170422-13-PS-About: semaphore & mutex
